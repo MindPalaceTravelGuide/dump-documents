@@ -1,0 +1,55 @@
+// Pour en discuter, ################################# \\
+
+Topo :
+
+Le jeu est constitué d'une série de scènes, chacune centrée sur un unique objet dans l'ombre.
+Il s'agit de le découvrir en déplaçant une lumière à sa surface (= dissoudre le fog of war), jusqu'à atteindre un point de sortie et passer au suivant.
+Le point (enfin, la zone) de sortie est signalée visuellement (variation en intensité & largeur du spot de lumière) et/ou auditivement (geiger) selon les scènes.
+Une série de scènes (de 3 à 5-6) est choisie aléatoirement au démarrage (pas de menus, pas de GUI).
+
+Chaque série s'enchaîne selon une logique narrative/par association d'idées:
+une série "guerre du Péloponnèse" serait un triptyque casque spartiate/Parthénon/crâne humain.
+D'autres sont thématiques (exploration sous-marine au XIXème) avant de se révéler narratives (accident de scaphandre).
+D'autres plus éthérées/psychédéliques.
+
+===================
+
+Du coup, le son. Puisqu'il n'y a pas de narration explicite, il assure un commentaire (contrepoint avec l'image: soundscape de la nature à l'aube sur une scène de ruines), crée de la continuité (reprise de thèmes/mixes alternatifs), est évocateur_sans_être_(trop)_illustratif.
+
+En-dehors des bruitages qui servent de feedback à la mécanique (geiger, shkrrrrr à la Slender), je pensais à 4 types de pistes, mutuellement exclusives sur une scène :
+
+- du fond capté, en boucle.
+  Utilisé pour marquer une pause dans la série (et ainsi éviter d'avoir de la musique en permanence) ou pour ménager certaines scènes évocatrices (pseudo-silence).
+
+- des pseudos-boucles.
+  Morceau passé en fond sans replay à sa fin, mais avec une structure répétitive, et qui ne se met pas en avant.
+  Composition basique, mais sonorités intrigantes/dignes d'intérêt, en accord avec l'impression recherchée.
+
+- des morceaux complets, mis au premier plan, centres de l'attention sur cette scène. Parfois du classique ou du chant.
+
+- des morceaux de générique. Il faut -c'est contractuel avec les licences libres- créditer les auteurs des modèles 3D/morceaux etc.
+  Du coup, générique cinématographique à la fin de chaque série, sur la même bande-son que la dernière scène si ce n'est pas une captation d'ambiance.
+
+
+Qu'en penses-tu ? Il y a encore un gros travail de sélection à faire de mon côté, avec des edits à prévoir/de la création pour des moments-clés.
+
+====================
+
+Aspect contractuel, à prendre au sérieux (pour une fois - c'est pas les conditions d'utilisation d'iTunes)
+
+
+Moult assets sont sous CC-By-SA
+(licence attribution-partage à l'identique, prends le temps de lire et comprendre http://creativecommons.org/licenses/by-sa/4.0/deed.fr , vraiment),
+du coup, *toutes* les données distribuées avec le jeu doivent l'être aussi. Y compris celles dont tu es l'auteur ou que tu as éditées.
+
+ Ce qui veut dire que tu en acceptes les modifications, la vente etc. etc. par n'importe qui, sous condition de respect de tes droits voisins ou moraux, et de conservation de la licence. Oui, même ce remix feat. U2 d'un technoviking.
+
+ Ca veut aussi dire que tu peux utiliser toutes les ressources sous Licence Art Libre, CC-By-SA,  CC-By et CC0 (pseudo-domaine public) que tu veux.
+Pas de banques de sons propriétaires, pas de samples d'origine indéterminée, pas de ressources sous licence Creative Commons "Non Commercial"
+("$" barré, par exemple http://creativecommons.org/licenses/by-nc/4.0/deed.fr ) ou "No Derivatives" ("=" http://creativecommons.org/licenses/by-nd/4.0/ ). Sinon la police du copyright viendra frapper à nos portes è_é
+
+Il faut aussi -succintement- garder trace des différentes ressources utilisées et des modifications apportées, pour créditer les gens.
+Le plus simple est d'uploader les morceaux sur Freesound qui, en plus de fournir une URL permanente, permet de déclarer les "versions rééditées de X".
+
+
+ Voili voilou
